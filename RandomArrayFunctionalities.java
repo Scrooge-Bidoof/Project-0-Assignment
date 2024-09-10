@@ -14,7 +14,7 @@ public class RandomArrayFunctionalities {
 	 * @param arrayTwo, holds the second array to be analyzed based upon 
 	 * the first
 	 * @return, returns a boolean value of true or false depending on if 
-	 * the second array is a subset of the first array
+	 * the second array is a subset of the first array   
 	 */
     public static boolean arraySubset(int[] arrayOne, int[] arrayTwo) {
     	

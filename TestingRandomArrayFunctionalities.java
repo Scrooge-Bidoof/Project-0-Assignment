@@ -44,7 +44,7 @@ public class TestingRandomArrayFunctionalities {
                 System.out.println("The second array is a subset of the first array. (An empty set is a a subset of any set)"  + "\n");
             } 
         	else {
-                System.out.println("The second array is a subset of the first array."  + "\n");
+                System.out.println("The second array is a subset of the first array set."  + "\n");
             }
         } 
         else {
